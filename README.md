@@ -1,5 +1,8 @@
 # GitHub Activity CLI
 
+Project URL:
+https://roadmap.sh/projects/github-user-activity
+
 A simple Python command-line application that fetches and displays recent GitHub user activity using the GitHub API.
 
 ## Usage
